@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+      <center>
+        <p> <a href="mailto:saguileran@unal.edu.co" title="email"><i class="fa-solid fa-envelope"></i></a> <a href="maito:apoyosistemas@itc.edu.co">apoyosistemas@itc.edu.co</a></p>
+        <p> <a href="https://etitc.edu.co/es/" title="github"><i class="fa-solid fa-house"></i></a> <a href="https://etitc.edu.co/es/">www.etitc.edu.co</a></p>
+        <p> <a href="https://www.google.com/maps/place/Escuela+Tecnol%C3%B3gica+Instituto+T%C3%A9cnico+Central/@4.6547487,-74.1644586,17z/data=!3m1!4b1!4m6!3m5!1s0x8e3f9dba37af805b:0x8208bb461642b5fe!8m2!3d4.6547434!4d-74.1618837!16s%2Fg%2F11fnp461gp?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D" title="maps"><i class="fa-solid fa-location-dot"></i></a> KR 94 Bis - CL 6A, Bogotá, Colombia</p> <br>
+      </center>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
