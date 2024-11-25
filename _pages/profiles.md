@@ -19,12 +19,4 @@ profiles:
         <p> <a href="https://github.com/saguileran" title="github"><i class="fa-solid fa-house"></i></a> <a href="https://github.com/saguileran">github.com/saguileran</a></p>
         <p> <a href="https://www.google.com/maps/place/Bogot%C3%A1,+Bogota/@4.6825472,-74.0982784,13z/data=!4m6!3m5!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092!16zL20vMDFkenlj?entry=ttu" title="email"><i class="fa-solid fa-location-dot"></i></a> Bogotá D.C., Colombia</p> <br>
       </center>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
