@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: Personas
-description: Profesores de la carrera de ingeniería de sistemas en la ETITC
+permalink: /integrantes/
+title: Integrantes
+description: Profesores de la carrera de ingeniería de sistemas en la ETITC.
 nav: true
 nav_order: 7
 
