@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - uetitc
+  - saguileran
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - saguileran/ETITC-2024-1
+  - uETITC/DataStructure-2024-2
+  - uETITC/DataBasesI-2024-2
+  - uETITC/ProgrammingII-2024-2
+  - uETITC/SoftwareDesignI-2024-2
+  - uETITC/uetitc.github.io
+  
