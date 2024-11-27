@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Diseño de Software I
-description: a project that redirects to another website
-redirect: https://uetitc.github.io/SoftwareDesignI-2024-2/README.html
+title: Sistemas Operativos I
+description: 
+redirect: https://github.com/saguileran/ETITC-2024-1/tree/main/Operating%20Systems%20I
 importance: 4
-category: 2024-II
+category: 2024-I
 ---
