@@ -25,9 +25,9 @@ Esta sitioweb contiene todos los documentos, códigos, guías, talleres, etc, cr
 
 Toda la información sobre la enseñanza universitaria se puede encontrar en la página web oficial [www.etitc.edu.co](https://etitc.edu.co/es/). Además, pueden encontrar más información sobre el programa de ingeniería de sistemas (plan de estudios, plan de estudios, normas, etc.) [aquí](https://etitc.edu.co/es/page/sistemas) o revisando el [folleto promocional de la carrera](#folleto-promocional-sistemas). 
 
-## Escuela Tecnológica Instituto Técnico Central (ETITC)
+## Escuela Tecnológica Instituto Técnico Central
 
-La Escuela Tecnológica Instituto Técnico Central es una universidad pública de Bogotá con dos sedes: una en el centro y otra en el suroccidente (Tintal). Además de ofertar educación superior de alta calidad, oferta carreras técnicas y tecnológicas, sin mencionar las oportunidades de educación básica y media en lo cual tienen décadas de experiencia.
+La Escuela Tecnológica Instituto Técnico Central (ETITC) es una universidad pública de Bogotá con dos sedes: una en el centro y otra en el suroccidente (Tintal). Además de ofertar educación superior de alta calidad, oferta carreras técnicas y tecnológicas, sin mencionar las oportunidades de educación básica y media en lo cual tienen décadas de experiencia.
 
 Actualmente existen 5 facultades: Electromecánica, Procesos Industriales, Sistemas, Mecatrónica, y Mecánica. En cada facultad se ofertan carreras técnicas, tecnológicas, y profesionales, en otras palabras, la ETITC oferta más de 15 pregrados sin contar: las esecializaciones (Internet de las Cosas y Seguridad y Salud en el Trabajo), el pograma de convenio con la Universidad Pedagógica Nacional (Licenciatura en Tecnología), y el Bachillerato Técnico Industrial.
 
@@ -37,13 +37,11 @@ Pueden encontrar el moodle de la universidad en el [campus virtual](https://camp
 
 ## Folleto Promocional Sistemas
 
-EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC. 
+EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC donde pueden encontrar información sobre las carreras ofertadas: técnico, tecnólogo, e ingeniería, e información de cada carrera sobre a quién va diriga, perfil del egresado, y el perfil ocupacional. Además, encontrarán la malla de materias, pensum, y el nivel de acreditación por parte del ministerio de educación. Tomado de [Sistemas - Presentación](https://www.etitc.edu.co/es/page/sistemas).
 
 <div align="center">
   <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="90%" height="450"></iframe>
 </div>
-
-Tomado de [Sistemas - Presentación](https://www.etitc.edu.co/es/page/sistemas).
 
 ## Universidad Pública de Kennedy (UPK)
 
