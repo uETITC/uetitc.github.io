@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Esta sitioweb contiene todos los documentos y códigos creados para los cursos impartidos en la [Escuela Tecnológica Instituto Técnico Central](https://etitc.edu.co/es/) para el programa de [ingeniería de sistemas](https://etitc.edu.co/es/page/sistemas), articulado en los ciclos de Tecnología en Desarrollo de Software e Ingeniería de Sistemas, que forma profesionales con altas competencias tecnológicas, científicas, administrativa y sociales, propiciando el desarrollo tecnológico en los campos de aplicación de software, seguridad informática, infraestructura, redes y telecomunicaciones aplicados al sector empresarial.
 
-Toda la información sobre la enseñanza universitaria se puede encontrar en la página web oficial [www.etitc.etu.co](https://etitc.edu.co/es/). Además, pueden encontrar más información sobre el programa de ingeniería de sistemas (plan de estudios, plan de estudios, normas, etc.) [aquí](https://etitc.edu.co/es/page/sistemas) o revisando el [folleto promocional de la carrera](#folleto-promocional). 
+Toda la información sobre la enseñanza universitaria se puede encontrar en la página web oficial [www.etitc.edu.co](https://etitc.edu.co/es/). Además, pueden encontrar más información sobre el programa de ingeniería de sistemas (plan de estudios, plan de estudios, normas, etc.) [aquí](https://etitc.edu.co/es/page/sistemas) o revisando el [folleto promocional de la carrera](#folleto-promocional). 
 
 ## Escuela Tecnológica Instituto Técnico Central (ETITC)
 
