@@ -33,7 +33,7 @@ Actualmente ofertan más de 13 pregrados en ingeniería y algunas especializacio
 
 Su origen data hace más de 120 años a la fecha, 2024, lo cual explica su calidad de educación primaria y secundaria. Para conocer más sobre la historia visitar su página oficial [Historia](https://etitc.edu.co/es/page/nosotros&historia).
 
-### Folleto Promocional
+## Folleto Promocional Sistemas
 
 EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC. 
 
