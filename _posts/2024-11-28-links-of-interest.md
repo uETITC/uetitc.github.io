@@ -98,7 +98,7 @@ _styles: >
 - [CommonMark](https://commonmark.org/)
 - [Tables Generator](https://www.tablesgenerator.com/)
 
-## Diagrams (UML, classes, objects, etc)
+## Diagrams UML (classes, objects, etc)
 
 - [Plantuml](https://plantuml.com/sitemap)
 - [Mermaid](https://mermaid.js.org)
