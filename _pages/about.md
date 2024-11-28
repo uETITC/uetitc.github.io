@@ -47,4 +47,4 @@ EL siguiente PDF es un folleto promocional de las carreras ofertadas en el progr
 
 La Universidad Pública de Kennedy (UPK) es una sede universitaria construida por la Alcaldía Mayor de Bogotá en la ciudadela Tintal de la localidad de Kennedy, al suroccidente de Bogotá D.C. Actualmente es administrada por la [Escuela Tecnológica Instituto Técnico Central](https://www.etitc.edu.co/) bajo la modalidad de multicampus (campus compartido) junto a la [Universidad Pedagógica Nacional](https://www.upn.edu.co/) y la [Universidad Colegio Mayor de Cundinamarca](https://www.unicolmayor.edu.co/), donde ofrecen estudios de pregrado, posgrado y técnicos.
 
-Mayor información puede ser encontrada en Wikipedia, [Universidad Pública de Kennedy](https://es.wikipedia.org/wiki/Universidad_P%C3%BAblica_de_Kennedy)
+Mayor información puede ser encontrada en [Universidad Pública de Kennedy - Wikipedia](https://es.wikipedia.org/wiki/Universidad_P%C3%BAblica_de_Kennedy).
