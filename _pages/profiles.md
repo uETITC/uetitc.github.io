@@ -22,5 +22,3 @@ profiles:
       </center> 
 social: true
 ---
-
----
