@@ -40,21 +40,32 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
-    {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/noticias/' | relative_url }}" style="color: inherit">Noticias</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+    <hr style="width:100%;text-align:left;margin-left:0"> 
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <!-- News -->
+          {% if page.news and site.announcements.enabled %}
+            <h2>
+              <a href="{{ '/noticias/' | relative_url }}" style="color: inherit">Noticias</a>
+            </h2>
+            {% include news.liquid limit=true %}
+          {% endif %}
+        </div>
+        <div class="col-sm">
+          <!-- Latest posts -->
+          {% if site.latest_posts.enabled %}
+            <h2>
+              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Últimas Publicaciones</a>
+            </h2>
+            {% include latest_posts.liquid %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
 
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Últimas Publicaciones</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
+    <hr style="width:100%;text-align:left;margin-left:0"> 
 
     <!-- Selected papers -->
     {% if page.selected_papers %}

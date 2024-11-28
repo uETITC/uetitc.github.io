@@ -2,7 +2,7 @@
 layout: about
 title: Inicio
 permalink: /
-subtitle: <a href='#'>Sede Tintal</a>, Escuela Tecnológica Instituto Técnico Central (ETITC).
+subtitle: <a href='#'>Sede Tintal</a>, Bogotá D.C., Colombia
 
 profile:
   align: right
@@ -21,8 +21,22 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Universidad Pública de Kennedy (UPK)
+La Escuela Tecnológica Instituto Técnico Central es una universidad pública de Bogotá con dos sedes: en el centro y en el Tintal. Además de ofertar educación superior de alta calidad, oferta carreras técnicas y tecnológicas, sin mencionar las oportunidades de educación básica y media en lo cual tienen décadas de experiencia.
 
-La Escuela Tecnológica Instituto Técnico Central, también conocida por sus siglas ETITC, fue fundada por los Hermanos de La Salle el 19 de marzo de 1904 y creada mediante el Decreto N.º 146 del 9 de febrero de 1905. Reestructurada por el Decreto 758 del 26 de abril de 1988, es un Establecimiento Público de Educación Superior, de carácter académico, adscrito al Ministerio de Educación Nacional.
+Actualmente ofertan más de 13 pregrados en ingeniería y algunas especializaciones. Sin mencionar la educación media bachiller que es acompañada de habilidades técnicas.
 
-Su edificio sede es patrimonio histórico cultural de la nación y de la ciudad de Bogotá por el decreto 2859 del 26 de noviembre de 1984,1​ otorgado por el Instituto Distrital de Patrimonio Cultural de la Alcaldía Mayor de Bogotá. 
+Su origen data hace más de 120 años a la fecha, 2024, lo cual explica su calidad de educación primaria y secundaria. Para conocer más sobre la historia visitar su página oficial [Historia](https://etitc.edu.co/es/page/nosotros&historia).
+
+## Facultad de Sistemas
+
+El Programa de Ingeniería de Sistemas, articulado en los ciclos de Tecnología en Desarrollo de Software e Ingeniería de Sistemas, que forma profesionales con altas competencias tecnológicas, científicas, administrativa y sociales, propiciando el desarrollo tecnológico en los campos de aplicación de software, seguridad informática, infraestructura, redes y telecomunicaciones aplicados al sector empresarial.
+
+Mayor información puede ser encontrada en su sitio oficial [Sistemas](https://etitc.edu.co/es/page/sistemas).
+
+### Folleto Promocional
+
+<div align="center">
+  <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="80%" height="360"></iframe>
+</div>
+
+## Universidad Pública de Kennedy (UPK)
