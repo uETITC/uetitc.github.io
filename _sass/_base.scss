@@ -193,7 +193,7 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .clearfix_profiles {
-  margin: auto 0 auto 220px;
+  margin: 10px 0 90px 240px;
 }
 
 .profile_perfiles {
@@ -436,7 +436,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0 0 -10px 0;
   }
 }
 
@@ -730,7 +734,9 @@ footer.sticky-bottom {
     text-align: right;
   }
   h2{
-    font-size: 20pt;
+    font-size: 16pt;
+    margin: auto -5px auto -5px;
+    text-align: center;
   }
 }
 

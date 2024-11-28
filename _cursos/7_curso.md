@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programación 2
+title: Programación II
 description: 
 redirect: https://uetitc.github.io/ProgrammingII-2024-2/README.html
 importance: 3

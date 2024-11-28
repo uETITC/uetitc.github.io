@@ -56,7 +56,7 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 80% # 960px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -111,11 +111,11 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://www.etitc.edu.co # work page URL
 x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: etitc # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  <b>VBI LABOR, IBI VIRTVS - ¡Donde Hay Trabajo, Hay Virtud!<b>
+  VBI LABOR, IBI VIRTVS:   ¡Donde Hay Trabajo, Hay Virtud!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

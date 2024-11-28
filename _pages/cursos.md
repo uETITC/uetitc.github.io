@@ -6,7 +6,7 @@ description: Cursos creados para la carrera de ingeniería de sistemas.
 nav: true
 nav_order: 3
 display_categories: [2024-I, 2024-II]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/cursos.md -->
