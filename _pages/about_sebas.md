@@ -3,3 +3,5 @@ Graduado en Física por la Universidad Nacional de Colombia, con una sólida for
 Además, me apasiona explorar la relación entre la física y el aprendizaje automático. Actualmente, investigo cómo estas herramientas pueden aplicarse para resolver problemas complejos, optimizar simulaciones y analizar datos con mayor profundidad. Mi objetivo es combinar mis conocimientos en física y programación para contribuir al desarrollo de soluciones innovadoras en estas áreas.
 
 Trabaje en la ETITC durante el año 2024 donde desempeñe el rol de docente de hora cátedra.
+
+**Hobbies:** Soccer tenis, montar bicicleta, viajar, charlar.
