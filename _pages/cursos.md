@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 display_categories: [2024-I, 2024-II]
 horizontal: false
+social: true
 ---
 
 <!-- pages/cursos.md -->
