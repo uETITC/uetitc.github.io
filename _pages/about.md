@@ -21,23 +21,27 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-La Escuela Tecnológica Instituto Técnico Central es una universidad pública de Bogotá con dos sedes: en el centro y en el Tintal. Además de ofertar educación superior de alta calidad, oferta carreras técnicas y tecnológicas, sin mencionar las oportunidades de educación básica y media en lo cual tienen décadas de experiencia.
+Esta sitioweb contiene todos los documentos y códigos creados para los cursos impartidos en la [Escuela Tecnológica Instituto Técnico Central](https://etitc.edu.co/es/) para el programa de [ingeniería de sistemas](https://etitc.edu.co/es/page/sistemas), articulado en los ciclos de Tecnología en Desarrollo de Software e Ingeniería de Sistemas, que forma profesionales con altas competencias tecnológicas, científicas, administrativa y sociales, propiciando el desarrollo tecnológico en los campos de aplicación de software, seguridad informática, infraestructura, redes y telecomunicaciones aplicados al sector empresarial.
+
+Toda la información sobre la enseñanza universitaria se puede encontrar en la página web oficial [www.etitc.etu.co](https://etitc.edu.co/es/). Además, pueden encontrar más información sobre el programa de ingeniería de sistemas (plan de estudios, plan de estudios, normas, etc.) [aquí](https://etitc.edu.co/es/page/sistemas) o revisando el [folleto promocional de la carrera](#folleto-promocional). 
+
+## Escuela Tecnológica Instituto Técnico Central (ETITC)
+
+La Escuela Tecnológica Instituto Técnico Central es una universidad pública de Bogotá con dos sedes: una en el centro y otra en el suroccidente (Tintal). Además de ofertar educación superior de alta calidad, oferta carreras técnicas y tecnológicas, sin mencionar las oportunidades de educación básica y media en lo cual tienen décadas de experiencia.
 
 Actualmente ofertan más de 13 pregrados en ingeniería y algunas especializaciones. Sin mencionar la educación media bachiller que es acompañada de habilidades técnicas.
 
 Su origen data hace más de 120 años a la fecha, 2024, lo cual explica su calidad de educación primaria y secundaria. Para conocer más sobre la historia visitar su página oficial [Historia](https://etitc.edu.co/es/page/nosotros&historia).
 
-## Facultad de Sistemas
-
-El Programa de Ingeniería de Sistemas, articulado en los ciclos de Tecnología en Desarrollo de Software e Ingeniería de Sistemas, que forma profesionales con altas competencias tecnológicas, científicas, administrativa y sociales, propiciando el desarrollo tecnológico en los campos de aplicación de software, seguridad informática, infraestructura, redes y telecomunicaciones aplicados al sector empresarial.
-
-Mayor información puede ser encontrada en su sitio oficial [Sistemas](https://etitc.edu.co/es/page/sistemas).
-
 ### Folleto Promocional
 
+EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC. 
+
 <div align="center">
-  <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="80%" height="360"></iframe>
+  <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="90%" height="450"></iframe>
 </div>
+
+Tomado de [Sistemas - Presentación](https://www.etitc.edu.co/es/page/sistemas).
 
 ## Universidad Pública de Kennedy (UPK)
 
