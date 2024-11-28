@@ -20,5 +20,5 @@ profiles:
         <p> <a href="https://saguileran.github.io" title="github"><i class="fa-solid fa-house"></i></a> <a href="https://saguileran.github.io">www.saguileran.github.io</a></p>
         <p> <a href="https://www.google.com/maps/place/Bogot%C3%A1,+Bogota/@4.6825472,-74.0982784,13z/data=!4m6!3m5!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092!16zL20vMDFkenlj?entry=ttu" title="email"><i class="fa-solid fa-location-dot"></i></a>  <a href="https://www.google.com/maps/place/Bogot%C3%A1,+Bogota/@4.6825472,-74.0982784,13z/data=!4m6!3m5!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092!16zL20vMDFkenlj?entry=ttu">Bogotá D.C., Colombia</a> </p>
       </center> 
-  
+social: true
 ---
