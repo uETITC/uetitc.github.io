@@ -5,7 +5,7 @@ permalink: /cursos/
 description: Lista de los cursos creados para la carrera de ingeniería de sistemas. El objetivo de cada curso es brindar un material de apoyo tanto para el estudiante como el docente. Al estar almacenados en GitHub y ser de código abierto, cualquiera puede utilizarlos y mejorarlos siempre y cuando se den los respectivos créditos a los autores.
 nav: true
 nav_order: 3
-display_categories: [2024-I, 2024-II, otros]
+display_categories: [2024-I, 2024-II]
 horizontal: false
 social: true
 ---
