@@ -29,14 +29,18 @@
             <div class="col-sm-9">{{ content }}</div>
             <!-- sidebar, which will move to the top on a small screen -->
             <div class="col-sm-3">
-              <nav id="toc-sidebar" class="sticky-top"></nav>
+              <nav id="toc-sidebar" class="sticky-top">
+                <p id="p_toc"> <b>Tabla de Contenidos (ToC) <b></p>
+              </nav>
             </div>
           </div>
         {% else %}
           <div class="row">
             <!-- sidebar, which will move to the top on a small screen -->
             <div class="col-sm-3">
-              <nav id="toc-sidebar" class="sticky-top"></nav>
+              <nav id="toc-sidebar" class="sticky-top">
+                <p> <b>Tabla de Contenidos (ToC) <b></p>
+              </nav>
             </div>
             <!-- main content area -->
             <div class="col-sm-9">{{ content }}</div>
@@ -48,6 +52,7 @@
     </div>
 
     <!-- Social -->
+    <hr style="width:{{ site.max_width }};text-align:center;margin:0 auto 0 auto"> 
     {% if page.social %}
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>

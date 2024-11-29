@@ -417,10 +417,10 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
-  padding: 20px 0 0 0;
+  padding: 5px 0 0 0;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3.2rem;
 
     a {
       i::before {
@@ -437,7 +437,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -711,19 +711,20 @@ footer.sticky-bottom {
   }
 
   .card {
+    padding: auto 0 auto 0;
     img {
       width: 100%;
     }
   }
 
   .col {
-    padding-bottom: 1rem;
+    padding-bottom: 0rem;
   }
 
   .grid-sizer,
   .grid-item {
     width: 250px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 
   h2.category {
@@ -736,7 +737,7 @@ footer.sticky-bottom {
   }
   h2{
     font-size: 16pt;
-    margin: auto -5px auto -5px;
+    margin: auto -5px -10px -5px;
     text-align: center;
   }
 }
@@ -1110,16 +1111,23 @@ progress::-moz-progress-bar {
 }
 
 /* Table of Contents */
+
+p_toc{
+  font-size: 30rem;
+}
+
 nav[data-toggle="toc"] {
-  top: 5rem;
+  top: 7rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 10px;
   }
 
   .nav > li > a {
     color: var(--global-text-color);
-    font-size: 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 10px;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1130,8 +1138,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: 0.75rem;
-
+    
     &:hover {
       color: var(--global-hover-color);
       border-left-color: var(--global-hover-color);

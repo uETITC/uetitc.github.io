@@ -1,77 +1,36 @@
 ---
-layout: distill
+layout: post
 title: Enlaces de interés
-description: Algunos enlaces de interés de herramientas digital para programación.
+date: 2024-11-28 10:14:00-0400
+description: Algunos enlaces de interés de herramientas digitales para programación.
 tags: links-of-interest
+categories: sample-posts
 giscus_comments: false
-date: 2024-11-28 13:00:00
-featured: true
-
-authors:
-  - name: Sebastian Aguilera Novoa
-    url: "https://www.saguileran.github.io"
-    affiliations:
-      name: Profesor ETITC
-
-bibliography: 2018-12-22-distill.bib
-
-# Optionally, you can add a table of contents to your post.
-# NOTES:
-#   - make sure that TOC names match the actual section names
-#     for hyperlinks within the post to work correctly.
-#   - we may want to automate TOC generation in the future using
-#     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
+related_posts: false
 toc:
-  - name: Coding Practice
-    # if a section has subsections, you can add them as follows:
-    # subsections:
-    #   - name: Example Child Subsection 1
-    #   - name: Example Child Subsection 2
-  - name: Artificial intelligence (AI)
-    subsections:
-      - name: Text (NLP)
-      - name: Text-to-Images
-  - name: GitHub
-  - name: Markdown
-  - name: Diagrams (UML, classes, objects, etc)
-
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
-  .fake-img p {
-    font-family: monospace;
-    color: white;
-    text-align: left;
-    margin: 12px 0;
-    text-align: center;
-    font-size: 16px;
-  }
+  sidebar: left
+author: <a href="https://saguileran.github.io/">Sebastian Aguilera Novoa</a>
+social: true
 ---
 
-# Links of Interest
+Algunos enlaces de interés de herramientas digitales para programación.
 
-## Coding Practice
+## Practicar Programación
 
 - [Codeabbey](https://www.codeabbey.com/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 
-## Artificial intelligence (AI)
+## Inteligencia Artificial (IA)
 
-### Text (NLP)
+### Texto-a-Texto (PLN)
 
 - [Copilot](https://copilot.microsoft.com/)
 - [ChatGPT](https://chatgpt.com/)
 - [Anthropic](https://www.anthropic.com/)
 - [Gemini](https://gemini.google.com/app)
 
-### Text-to-Images
+### Texto-a-Imágenes
 
 - [Leonardo AI](https://leonardo.ai/)
 - [Designer](https://designer.microsoft.com/)
@@ -96,10 +55,11 @@ _styles: >
 - [Github - Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Github - Inicio rápido para escribir en GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [CommonMark](https://commonmark.org/)
-- [Tables Generator](https://www.tablesgenerator.com/)
+- [Generador de Tabls](https://www.tablesgenerator.com/)
 
-## Diagrams UML (classes, objects, etc)
+## Diagramas UML (clases, objetos, estados, etc)
 
-- [Plantuml](https://plantuml.com/sitemap)
+- [Plantuml](https://plantuml.com/)
 - [Mermaid](https://mermaid.js.org)
-- [UML Class Diagram Tutorial](https://www.lucidchart.com/pages/uml-class-diagram)
+- [LucidChart](https://www.lucidchart.com/)
+- [Draw.io](https://app.diagrams.net/)

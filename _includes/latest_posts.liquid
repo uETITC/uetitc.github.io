@@ -4,7 +4,7 @@
     <div
       class="table-responsive"
       {% if site.latest_posts.scrollable and latest_posts_size > 3 %}
-        style="max-height: 60vw"
+        style="max-height: 60vw;"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
@@ -16,7 +16,7 @@
         {% endif %}
         {% for item in latest_posts limit: latest_posts_limit %}
           <tr>
-            <th scope="row" style="width: 30%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th scope="row" style="width: 25%; ">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>

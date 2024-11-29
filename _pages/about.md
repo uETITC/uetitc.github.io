@@ -37,11 +37,13 @@ Pueden encontrar el moodle de la universidad en el [campus virtual](https://camp
 
 ## Folleto Promocional Sistemas
 
-EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC donde pueden encontrar información sobre las carreras ofertadas: técnico, tecnólogo, e ingeniería, e información de cada carrera sobre a quién va diriga, perfil del egresado, y el perfil ocupacional. Además, encontrarán la malla de materias, pensum, y el nivel de acreditación por parte del ministerio de educación. Tomado de [Sistemas - Presentación](https://www.etitc.edu.co/es/page/sistemas).
+EL siguiente PDF es un folleto promocional de las carreras ofertadas en el programa de ingeniería de sistemas de la ETITC donde pueden encontrar información sobre las carreras ofertadas: técnico, tecnólogo, e ingeniería, e información de cada carrera sobre a quién va diriga, perfil del egresado, y el perfil ocupacional. Además, encontrarán la malla de materias, pensum, y el nivel de acreditación por parte del ministerio de educación. 
 
 <div align="center">
-  <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="90%" height="450"></iframe>
+  <iframe src="https://etitc.edu.co/archives/sistemas.pdf" width="90%" height="420"></iframe>
 </div>
+
+Tomado de [Sistemas - Presentación](https://www.etitc.edu.co/es/page/sistemas).
 
 ## Universidad Pública de Kennedy (UPK)
 

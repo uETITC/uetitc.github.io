@@ -5,6 +5,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
+      {% if site.icon_on_navbar %}
+          <img src="../assets/img/{{ site.icon }}" alt="favicon etitc" style="border: 0; float: left; margin: auto 15px auto -50px; height: 100px">
+      {% endif %}
         <span class="font-weight-bold">{{ site.first_name }}</span> <br>
         {{ site.middle_name }} <br>
         {{ site.last_name }}
@@ -44,17 +47,17 @@ layout: default
     <hr style="width:100%;text-align:left;margin-left:0"> 
     
     <div class="container">
-      <div class="row">
-        <div class="col-sm">
+      <div class="row" style="margin: 0 -120px 0 -120px">
+        <div class="col-6">
           <!-- News -->
           {% if page.news and site.announcements.enabled %}
             <h2>
-              <a href="{{ '/noticias/' | relative_url }}" style="color: inherit">Noticias</a>
+              <a href="{{ '/noticias/' | relative_url }}" style="color: inherit;">Noticias</a>
             </h2>
             {% include news.liquid limit=true %}
           {% endif %}
         </div>
-        <div class="col-sm">
+        <div class="col-6">
           <!-- Latest posts -->
           {% if site.latest_posts.enabled %}
             <h2>
@@ -66,7 +69,6 @@ layout: default
       </div>
     </div>
 
-    <hr style="width:100%;text-align:left;margin-left:0"> 
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
