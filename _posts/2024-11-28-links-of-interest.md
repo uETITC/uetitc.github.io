@@ -11,7 +11,7 @@ authors:
   - name: Sebastian Aguilera Novoa
     url: "https://www.saguileran.github.io"
     affiliations:
-      name: Profesor ETITC, Bogotá, Colombia
+      name: Profesor ETITC
 
 bibliography: 2018-12-22-distill.bib
 
