@@ -5,9 +5,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-      {% if site.icon_on_navbar %}
+        {% if site.icon_on_navbar %}
           <img src="../assets/img/{{ site.icon }}" alt="favicon etitc" style="border: 0; float: left; margin: auto 15px auto -50px; height: 100px">
-      {% endif %}
+        {% endif %}
         <span class="font-weight-bold">{{ site.first_name }}</span>
         <br>
         {{ site.middle_name }}

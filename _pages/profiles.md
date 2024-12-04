@@ -13,7 +13,7 @@ profiles:
     image: sebas.png
     content: about_sebas.md
     image_circular: false # crops the image to make it circular
-    more_info:  >
+    more_info: >
       <center>
         <p> <a href="mailto:saguileran@itc.edu.co" title="email"><i class="fa-solid fa-envelope"></i></a> <a href="maito:saguileran@itc.edu.co">saguileran@itc.edu.co</a></p>
         <p> <a href="mailto:saguileran@unal.edu.co" title="email"><i class="fa-solid fa-envelope"></i></a> <a href="maito:saguileran@unal.edu.co">saguileran@unal.edu.co</a></p>
