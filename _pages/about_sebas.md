@@ -4,4 +4,4 @@ Además, me apasiona explorar la relación entre la física y el aprendizaje aut
 
 Trabaje en la ETITC durante el año 2024 donde desempeñe el rol de docente de hora cátedra para los dos semestres del año.
 
-**Pasatiempos:** Fútbol tenis ⚽, rodar en bicicleta 🚲, viajar ✈️, charlar y discutir 🦜, escuchar música 🎧, dormir😴.
+**Pasatiempos:** Fútbol tenis ⚽, rodar en bicicleta 🚲, viajar ✈️, charlar y discutir 🦜, escuchar música 🎧, dormir 😴.
