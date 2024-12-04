@@ -22,7 +22,7 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix_profiles" styles="margin: auto 0 auto 220px;">
+        <div class="clearfix_profiles{% if profile.align == 'left' %}{% else %}_right{% endif %}" styles="margin: auto 0 auto 220px;">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}

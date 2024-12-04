@@ -64,5 +64,3 @@ social: true
   {% endif %}
 {% endif %}
 </div>
-
-<br>

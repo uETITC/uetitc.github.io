@@ -6,4 +6,4 @@ title: Semana de parciales
 related_posts: false
 ---
 
-Semana de parciales del 2 al 7 de Diciembre  ✏️📚.
+Semana de parciales del 2 al 7 de Diciembre ✏️📚.

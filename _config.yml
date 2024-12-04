@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ingeniería de Sistemas
 middle_name: Escuela Tecnológica Instituto Técnico Central
-last_name: 
+last_name:
 short_name: ETITC
 main_url: https://www.etitc.edu.co
 email: auxsistemas@itc.edu.co
@@ -21,7 +21,7 @@ icon: favicon.png # the emoji used as the favicon (alternatively, provide image 
 icon_on_navbar: true
 
 url: https://uetitc.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -83,7 +83,7 @@ facebook_id: etitc # your facebook id
 flickr_id: # your flickr id
 github_username: uetitc # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id:  # your ieeexplore.ieee.org/author/id
+ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID
 instagram_id: etitc # your instagram id
 kaggle_id: # your kaggle id
@@ -137,7 +137,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  Blog # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_description: Una colección de guías y tutoriales
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -153,7 +153,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: uETITC/uetitc.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -163,10 +163,10 @@ giscus:
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: en
+  lang: es
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

@@ -2,11 +2,12 @@
 layout: page
 title: Proyectos
 permalink: /projects/
-description: Proyectos PAR y PICs desarrollados 
+description: Proyectos PAR y PICs desarrollados.
 nav: true
 nav_order: 3
-display_categories: [work, fun, automatización, websites, chatbot, agent]
+display_categories: [work, automatización, websites, chatbot, agent]
 horizontal: false
+social: true
 ---
 
 <!-- pages/projects.md -->
