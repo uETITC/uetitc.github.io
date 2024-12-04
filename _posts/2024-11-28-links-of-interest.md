@@ -5,7 +5,7 @@ date: 2024-11-28 10:14:00-0400
 description: Algunos enlaces de interés de herramientas digitales para programación.
 tags: links-of-interest
 categories: sample-posts
-giscus_comments: false
+giscus_comments: true
 related_posts: false
 toc:
   sidebar: left
