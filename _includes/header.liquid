@@ -91,7 +91,10 @@
                       {% if child.title == 'divider' %}
                         <div class="dropdown-divider"></div>
                       {% else %}
-                        <a class="dropdown-item {% if page.title == child.title %}active{% endif %}" href="{% if child.permalink contains '://' %}{{ child.permalink }}{% else %}{{ child.permalink | relative_url }}{% endif %}">" href="{{ child.permalink | relative_url }}">
+                        <a
+                          class="dropdown-item {% if page.title == child.title %}active{% endif %}"
+                          href="{% if child.permalink contains '://' %}{{ child.permalink }}{% else %}{{ child.permalink | relative_url }}{% endif %}"
+                          >" href="{{ child.permalink | relative_url }}">
                           {{- child.title -}}
                         </a>
                       {% endif %}
@@ -106,7 +109,7 @@
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
                   {%- else -%}
-                    {%- assign url = p.url-%}
+                    {%- assign url = p.url -%}
                   {%- endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
